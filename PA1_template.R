@@ -1,6 +1,7 @@
 setwd("C:/Users/Derek/Desktop/datasciencecoursera/data")
 
 # Required Libraries
+library("knitr")
 library("dplyr")
 library("lubridate")
 library("ggplot2")

@@ -50,6 +50,7 @@ I initialized the systems with the following script in order to read in the acit
 setwd("C:/Users/Derek/Desktop/datasciencecoursera/data")
 
 # Required Libraries
+library("knitr")
 library("dplyr")
 library("lubridate")
 library("ggplot2")
