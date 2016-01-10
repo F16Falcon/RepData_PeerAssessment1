@@ -1,4 +1,4 @@
-# Reproducible Research - Peer Assessment 1
+# Reproducible Research - Peer Assessment 1 (Date Jan. 10, 2016)
 ==================================================================================================================
 
 This report addresses four general questions related to a large collection of data gathered in a study about personal movement using activity monitoring devices such as a Fitbit, Nike Fuelband, or Jawbone Up. The objective of the study is to improve health by finding patterns in personal health and fitness behavior. The assignment makes use of data from a personal activity monitoring device. This device collects data at 5 minute intervals through out the day. The data consists of two months of data from an anonymous individual collected during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each day.
